@@ -5,3 +5,11 @@ plotly
 seaborn
 sklearn
 statistics
+bs4
+entrypoints>0.2.2
+tinycss2
+oauthlib>=3.0
+requests
+psutil
+scipy
+tensorflow
